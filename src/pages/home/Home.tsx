@@ -53,7 +53,7 @@ function Home() {
                         justify-center
                         ">
                         <img
-                            src= "https://i.imgur.com/OYXGxOU.jpg[/img]ps://i.imgur.com/VpwApCU.png"
+                            src= "https://ik.imagekit.io/ojecaifol/home.png?updatedAt=1706710995881"
                             alt="Imagem da Página Home"
                             className="w-2/3"
                         />
